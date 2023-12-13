@@ -1,2 +1,2 @@
 # invitationletter
-Submit matrix dissimilarity with professors, resend invitation according to the read today.
+resend invitation matrix dissimilarity with professors according to the read today.

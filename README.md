@@ -1,4 +1,3 @@
 # invitationletter
-resend invitation matrix dissimilarity with professors according to the read today, after confirmation, send them invitations 
+resend invitation matrix dissimilarity with professors according to the read today, and then send them invitations 
 
-1

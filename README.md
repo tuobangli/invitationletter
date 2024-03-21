@@ -1,2 +1,2 @@
 # invitationletter
-ask Berkeley Professor to submit Matrix dissimilarity as a coursework.
+ask Stella Yu to submit Matrix dissimilarity as a coursework.

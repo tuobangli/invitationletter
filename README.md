@@ -1,3 +1,2 @@
 # invitationletter
-resend invitation matrix dissimilarity with professors according to the read today, and then send them invitations 
-
+ask Prof. Harold or Kai Yin or Eli for submitting Matrix dissimilarity as a cursework and ask for the degree certificate.

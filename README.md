@@ -1,2 +1,2 @@
 # invitationletter
-submitting Matrix dissimilarity to preprint.
+ask Berkeley Professor to submit Matrix dissimilarity as a coursework.

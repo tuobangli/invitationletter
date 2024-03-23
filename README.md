@@ -1,2 +1,2 @@
 # invitationletter
-sent waiting for reply
+resend email to SY

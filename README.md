@@ -1,2 +1,2 @@
 # invitationletter
-ask Stella Yu to submit Matrix dissimilarity 
+sent waiting for reply

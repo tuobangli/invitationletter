@@ -1,2 +1,2 @@
 # invitationletter
-resend email to SY
+resend email to Sandrid

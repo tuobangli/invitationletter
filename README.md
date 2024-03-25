@@ -1,2 +1,2 @@
 # invitationletter
-resend email to Sandrid
+resend email to Sandrine Dudoit

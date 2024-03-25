@@ -1,2 +1,2 @@
 # invitationletter
-apply for Berkleley Summar session
+apply for Berkleley Summar session.

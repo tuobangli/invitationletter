@@ -1,2 +1,2 @@
 # invitationletter
-resend email to Sandrine Dudoit
+apply for Berkleley Summar session

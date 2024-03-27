@@ -1,3 +1,2 @@
 # invitationletter
-apply for Berkleley Summar session.
-
+waiting for reply

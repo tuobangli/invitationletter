@@ -1,4 +1,3 @@
-Submit metabolic direction
-pnas
+Submit matrix dissimilarity to preprints
 
 brief report

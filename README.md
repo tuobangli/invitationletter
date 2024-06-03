@@ -1,4 +1,4 @@
-Submit REDS:Mean
+Submit metabolic direction
 pnas
 
 brief report

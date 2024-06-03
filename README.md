@@ -1,5 +1,4 @@
-submit matrix dissimilarity 
-
+Submit REDS:Mean
 pnas
 
 brief report

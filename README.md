@@ -1,3 +1,3 @@
-Submit matrix dissimilarity to preprints
+Submit matrix dissimilarity to pnas
 
 brief report
